@@ -9,7 +9,7 @@ the code source File,
 The execute file.
 
 ## How to use ?
-Execute the window.exe file
+Download and execute the window.exe file
 
 # Licente MIT
 # Author Jeancia
